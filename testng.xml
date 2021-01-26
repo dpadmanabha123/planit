@@ -3,7 +3,7 @@
 <suite name="InterviewSuite">
   <test name="InterviewTest">
     <classes>
-      <class name="com.planit.training.tests.Demo"/>
+      <class name="com.planit.training.tests.DemoTests"/>
     </classes>
   </test> <!-- InterviewTest -->
 </suite> <!-- InterviewSuite -->

@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import com.jayway.restassured.response.Response;
 import com.planit.training.libraries.APILibrary;
 
-public class InterviewTest {
+public class DemoTests {
 	
 	APILibrary library = new APILibrary();
 	Map<String,String> stationData1 = new HashMap<String,String>();
