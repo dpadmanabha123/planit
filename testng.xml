@@ -3,7 +3,7 @@
 <suite name="InterviewSuite">
   <test name="InterviewTest">
     <classes>
-      <class name="com.apttus.interview.api.InterviewTest"/>
+      <class name="com.planit.training.tests.Demo"/>
     </classes>
   </test> <!-- InterviewTest -->
 </suite> <!-- InterviewSuite -->
