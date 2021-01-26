@@ -1,4 +1,4 @@
-package com.apttus.interview.api;
+package com.planit.training.tests;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -7,6 +7,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import com.jayway.restassured.response.Response;
+import com.planit.training.libraries.APILibrary;
 
 public class InterviewTest {
 	
